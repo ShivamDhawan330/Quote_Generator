@@ -1,6 +1,6 @@
 Quote Predictor
 
-Link : https://shivamdhawan330-quote-generator.hf.space/<img width="573" height="28" alt="image" src="https://github.com/user-attachments/assets/7e414db7-8cc5-4fd1-bd13-f0317a34b479" />
+Link : https://shivamdhawan330-quote-generator.hf.space/
 
 
 The Quote Prediction App is an AI-powered application designed to help users
