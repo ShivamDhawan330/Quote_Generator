@@ -112,6 +112,9 @@ Scales better
 Easier to extend
 
 
+## ___Improvisation in Future Release___
+To improve the speed of Quote generation as it is taking approximate (1-2 minutes) for every single quote generation request 
+
 ## ___Conclusion___
 
 The Quote Prediction Project demonstrates how small, efficient language models can be customized for creative tasks using modern fine-tuning techniques like LoRA. It provides a scalable foundation for building intelligent writing assistants without massive infrastructure costs.
