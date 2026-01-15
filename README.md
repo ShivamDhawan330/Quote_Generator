@@ -99,6 +99,15 @@ Pandas
 App Usage Guide
 
 
+### **DIAGRAMS**:
+
+<img width="1221" height="812" alt="image" src="https://github.com/user-attachments/assets/719e6d78-ac5b-4287-92ae-06889e3ce28b" />
+
+<img width="937" height="680" alt="image" src="https://github.com/user-attachments/assets/552a4680-8d47-4218-afe4-f0a4958164b4" />
+
+
+
+
 ## ___Design Decisions Explained___
 
 ### **Why Not Train Separate Models?**
